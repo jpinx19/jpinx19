@@ -24,6 +24,7 @@ Retrouvez ici la totalité de mes programmes,ces derniers ont été programmés 
    <br/>
    Le logiciel est multi-utilisateur (plusieurs utilisateurs sur le meme logiciel est disponible), ainsi qu'un user 'administrateur' ayant accès à tous les cours et          logiciels sans restriction ni condition.
    Chaque utilisateur lui voit attribuer un nombre d'expériences lui permettant l'accès à des cours/logiciels/exercices.
+   <h3>CLosed Project</h3>
 <!---
 jpinx19/jpinx19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

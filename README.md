@@ -6,7 +6,7 @@ Retrouvez ici la totalité de mes programmes,ces derniers ont été programmés 
 - 👀 I’m interested in informatique
 - 🌱 I’m currently learning the cybersecurity
 - 💞️  I create programs about cybersecurity, maths and informatique.
-- 📫 How to reach me : pearltrees.com/jpinx and padlet.com/jpinx19
+- 📫 How to reach me : pearltrees.com/jpinx 
 - 👩‍💻 I have created Simulateur Hacking Toolkits (SHT), here : https://github.com/jpinx19/jpinx19/tree/main/Informatique/SHT 
                                                    and here : https://www.pearltrees.com/jpinx/simulateur-hacking-toolkits/id54816332
 
